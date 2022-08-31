@@ -1,0 +1,4 @@
+export const GET_ALL_RECEPIENT = "GET_ALL_RECEPIENT";
+export const GET_ALL_CHATS = "GET_ALL_CHATS";
+export const CLEAR_CHAT = "CLEAR_CHAT";
+export const CLEAR_RECEPIENT = "CLEAR_RECEPIENT";
