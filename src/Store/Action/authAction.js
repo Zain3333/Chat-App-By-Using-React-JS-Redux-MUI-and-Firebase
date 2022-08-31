@@ -5,13 +5,7 @@ import "firebase/compat/firestore";
 import "firebase/compat/storage";
 import { USER_LOGOUT, USER_REGISTERED } from "../Constant/authConst";
 var firebaseConfig = {
-  apiKey: "AIzaSyCNdON2qR4UQBCtJVvd5nbSkLavlIaReR4",
-  authDomain: "chat-app-8-23-2022.firebaseapp.com",
-  projectId: "chat-app-8-23-2022",
-  storageBucket: "chat-app-8-23-2022.appspot.com",
-  messagingSenderId: "422330896610",
-  appId: "1:422330896610:web:83a46d4cc4284e5c368ebb",
-  measurementId: "G-FTK3SC1Y0L",
+  // ADD YOUR FIREBASE HERE
 };
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
